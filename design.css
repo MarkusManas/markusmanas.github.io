@@ -1,0 +1,18 @@
+body{
+	background-color: #c2f2d0;
+}
+#cardcolor{
+	background-color: #6b3e26;
+}
+.collection{
+	width: 50%;
+	margin: auto;
+}
+.container .row{
+  margin: auto;
+}
+
+#bio{
+	color:#fdf5c9;
+	font-size: 125%;
+}
